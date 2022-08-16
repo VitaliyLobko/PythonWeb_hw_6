@@ -1,0 +1,18 @@
+[[package]]
+name = "aioshutil"
+version = "1.1"
+description = "Asynchronous shutil module."
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "2b70c8e04b4a901d1496ef3fb94d31979bf550c2114531959fe65e089ee2b787"
+
+[metadata.files]
+aioshutil = [
+    {file = "aioshutil-1.1-py3-none-any.whl", hash = "sha256:4c17e1da55cf928b4a85bd6ff5e4f1560cf21db7a16b5da5844f8f3edf3e2895"},
+    {file = "aioshutil-1.1.tar.gz", hash = "sha256:d2e8d6baddab13137410b27ce24f39ce9889684cb47503d5af182ea8d038b0f1"},
+]
